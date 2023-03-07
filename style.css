@@ -1,0 +1,42 @@
+
+div{
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  padding-top: 15px;
+  padding-left: 10%;
+  padding-right: 5px;
+  float:right;
+}
+ul li{
+  list-style-type: none;
+  display: inline-block;
+  padding: 7px 19px;
+  text-align: right;
+}
+body{
+  background-color: lightgreen;
+  
+}
+h2{
+  background-color: rgb(173, 245, 255);
+}
+ul li{
+  display: inline-flex;
+  font-size: 20px;
+}
+img {
+  width: 620px;
+  height: 568px
+}
+body p{
+  padding-top: 16px;
+  font-size: 20px;
+}
+body b{
+  padding-top: 16px;
+  font-size: 17px;
+}
+ ul button li{
+  padding-top: 130px;
+}
